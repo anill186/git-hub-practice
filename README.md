@@ -1,2 +1,2 @@
 # git-hub-practice
-for practice purpose
+for practice purpose telugu skillhub
